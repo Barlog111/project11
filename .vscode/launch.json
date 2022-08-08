@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "https://github.com/Barlog111/project11.git",
+            "request": "launch",
+            "url": "https://github.com/Barlog111/project11.git"
+        }
+    ]
+}
